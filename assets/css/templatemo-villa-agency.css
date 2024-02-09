@@ -745,15 +745,15 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banner-01.jpg);
+  background-image: url(../images/Courousal.jpg);
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banner-02.jpg);
+  background-image: url(../images/types-of-steel-alloy-steel.png);
 }
 
 .main-banner .item-3 {
-  background-image: url(../images/banner-03.jpg);
+  background-image: url(../images/V_JON3825-1024x683.jpg);
 }
 
 .main-banner .item span.category {
@@ -1375,7 +1375,7 @@ Page Header Style
 */
 
 .page-heading {
-  background-image: url(../images/page-heading-bg.jpg);
+  background-image: url(../images/img.JPG);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
